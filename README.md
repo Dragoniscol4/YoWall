@@ -3,3 +3,5 @@ YoWall is a lightweight macOS menu bar app that brings your desktop and lock scr
 
 When you quit the app it either keeps the last frame of the wallpaper as the main wallpaper
 or keeps the wallpaper that you saved in settings
+
+NO MICROTRANSACTIONS OR ANY MONEY - INSPIRED BY WALLPER AND LIVELY WALLPAPER - MAKING IT FREE FOR ALL
